@@ -1,1 +1,0 @@
-# mern-projects-portfolio
